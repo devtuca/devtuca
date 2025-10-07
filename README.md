@@ -22,7 +22,7 @@
 **Front:** Vue, Vuetify, JavaScript  
 **Back:** Java, Spring Boot, JWT, JPA  
 **DB:** MySQL, PostgreeSQL
-and others, Kafka, Docker...
+Kafka, Docker
 
 ---
 
