@@ -6,8 +6,6 @@
 <!-- Badges rápidos -->
 <p align="center">
   <a href="https://github.com/devtuca"><img src="https://img.shields.io/badge/Follow-@devtuca-black?logo=github"></a>
-  <img src="https://img.shields.io/badge/Code-Love-black?logo=heart" />
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-black?logo=visualstudiocode" />
   <a href="https://www.linkedin.com/in/luis-eduardo-2aaa60388">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -23,7 +21,8 @@
 ### 🛠️ Stack
 **Front:** Vue, Vuetify, JavaScript  
 **Back:** Java, Spring Boot, JWT, JPA  
-**DB:** MySQL  
+**DB:** MySQL, PostgreeSQL
+and others, Kafka, Docker...
 
 ---
 
