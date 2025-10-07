@@ -21,8 +21,8 @@
 ### 🛠️ Stack
 **Front:** Vue, Vuetify, JavaScript  
 **Back:** Java, Spring Boot, JWT, JPA  
-**DB:** MySQL, PostgreeSQL 
-**FW:** Kafka, Docker
+**DB:** MySQL, PostgreeSQL  
+**FW:** Kafka, Docker  
 
 ---
 
