@@ -7,7 +7,7 @@
 <!-- Badges rápidos -->
 <p align="center">
   <a href="https://github.com/devtuca"><img src="https://img.shields.io/badge/Follow-@devtuca-black?logo=github"></a>
-  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)]([https://skillicons.dev](https://www.linkedin.com/in/luis-eduardo-2aaa60388))
+[![Frontend](https://skillicons.dev/icons?i=js,html,css,react,nextjs,jquery,materialui,tailwind,vite,nodejs,express,spring,php)](https://skillicons.dev)
 
 
 
