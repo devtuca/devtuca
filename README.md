@@ -7,7 +7,8 @@
 <!-- Badges rápidos -->
 <p align="center">
   <a href="https://github.com/devtuca"><img src="https://img.shields.io/badge/Follow-@devtuca-black?logo=github"></a>
-  <a href="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/luis-eduardo-2aaa60388" />
+   <a href="www.linkedin.com/in/luis-eduardo-2aaa60388"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin"/>
+ 
 </p>
 
 ---
