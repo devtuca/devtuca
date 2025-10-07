@@ -7,7 +7,8 @@
 <!-- Badges rápidos -->
 <p align="center">
   <a href="https://github.com/devtuca"><img src="https://img.shields.io/badge/Follow-@devtuca-black?logo=github"></a>
- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luis-eduardo-2aaa60388)
+![GitHub followers](https://img.shields.io/github/followers/devtuca?label=Follow&style=social)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luis-eduardo-2aaa60388)
 
 
  
